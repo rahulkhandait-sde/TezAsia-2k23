@@ -1,16 +1,16 @@
 # TezAsia 23 Hackathon Submission form Details
 
 
-- 1. **Team Name *  :** LoneStarInnovator
-- 2. **Project name * :** 
-- 3. **Project's Description * :** 
-- 4. **What problem you are trying to solve * :** 
-- 5. **Tech Stack used while building the project * :** 
-- 6. **Project Demo Photos, Videos * :** 
-- 7. **Your Deployed Smart Contract's Link * ( write NA if no contract is deployed) :** 
-- 8. **If your project is deployed , then include the Live Project Link ( optional ) :** 
-- 9. **Folder link to project codebase on Tezos-India/TezAsia-2k23 Repository * :** 
-- 10. **Github repository link :** 
-- 11. **Your PPT file  * :** 
-- 12. **Your Team members Info.:** 
+ - **Team Name *  :** LoneStarInnovator
+ - **Project name * :** 
+ - **Project's Description * :** 
+ - **What problem you are trying to solve * :** 
+ - **Tech Stack used while building the project * :** 
+ - **Project Demo Photos, Videos * :** 
+ - **Your Deployed Smart Contract's Link * ( write NA if no contract is deployed) :** 
+ - **If your project is deployed , then include the Live Project Link ( optional ) :** 
+ - **Folder link to project codebase on Tezos-India/TezAsia-2k23 Repository * :** 
+ -  **Github repository link :** 
+ -  **Your PPT file  * :** 
+ -  **Your Team members Info.:** 
 
